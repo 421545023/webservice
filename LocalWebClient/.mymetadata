@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LocalWebClient"
+  id="myeclipse.1479117759764"
+  context-root="/LocalWebClient"
+  j2ee-spec="5.0"
+  archive="LocalWebClient.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
